@@ -1,4 +1,4 @@
-# goibniu — User Guide
+# goibniu — User Guide导航
 
 goibniu is a simple, fast kanban app. You organize work into **projects**;
 each project is a **board** of **columns** holding **cards**. Cards carry a
